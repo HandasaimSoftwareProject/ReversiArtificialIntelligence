@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversiArtificialIntelligence", "ReversiArtificialIntelligence\ReversiArtificialIntelligence.csproj", "{3BFA71B2-7D9F-4B2E-A1F2-3A5D94C7118A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversiAITests", "ReversiAITests\ReversiAITests.csproj", "{00ABD583-CAF4-401C-85A7-5DF7B9569596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFA71B2-7D9F-4B2E-A1F2-3A5D94C7118A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFA71B2-7D9F-4B2E-A1F2-3A5D94C7118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFA71B2-7D9F-4B2E-A1F2-3A5D94C7118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFA71B2-7D9F-4B2E-A1F2-3A5D94C7118A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00ABD583-CAF4-401C-85A7-5DF7B9569596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ABD583-CAF4-401C-85A7-5DF7B9569596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ABD583-CAF4-401C-85A7-5DF7B9569596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ABD583-CAF4-401C-85A7-5DF7B9569596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
