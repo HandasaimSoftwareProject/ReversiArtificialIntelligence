@@ -54,7 +54,6 @@
     <Compile Include="ReversiGame.cs" />
     <Compile Include="ReversiMultiplayerSimulation.cs" />
     <Compile Include="LazyReversiPlayer.cs" />
-    <Compile Include="MinimaxReversiPlayer.cs" />
     <Compile Include="SimpleReversiPlayer.cs" />
   </ItemGroup>
   <ItemGroup>

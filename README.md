@@ -6,3 +6,6 @@ You can do that by:
  - Forking the repository.
  - Implementing a class that implements the IReversiPlayer interface.
  - Submitting a pull request containing only your new class
+ 
+ 
+ All rights reserved.
