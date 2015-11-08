@@ -18,6 +18,10 @@ namespace ReversiArtificialIntelligence
             
             foreach (Point p in ReversiGame.ValidMoves(board, playerColor))
             {
+                if ((p.X == 7 && p.Y == 7) || (p.X == 7 && p.Y == 0) || (p.X == 0 && p.Y == 7) || (p.X == 0 && p.Y == 0))
+                {
+                    return p;
+                }
                 int score = ReversiGame.Score(ReversiGame.PlayTurn(board, p, playerColor), playerColor);
                 if (board.At(p) == playerColor)
                 {
