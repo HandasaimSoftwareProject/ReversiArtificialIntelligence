@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mip.cs" />
     <Compile Include="Disc.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="IReversiPlayer.cs" />

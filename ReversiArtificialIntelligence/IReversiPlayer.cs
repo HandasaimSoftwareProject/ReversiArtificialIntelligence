@@ -22,6 +22,8 @@ namespace ReversiArtificialIntelligence
         /// <param name="board">The game board</param>
         /// <param name="playerColor">The current player's color</param>
         /// <returns>The point in which the next disc should be played</returns>
+         
+        
         Point NextMove(Disc[,] board, Disc playerColor);
     }
 }
